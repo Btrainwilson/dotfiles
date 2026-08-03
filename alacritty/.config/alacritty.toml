@@ -13,7 +13,7 @@ blur = true # Background blur (macOS/KDE/Gnome)
 
 # Font configuration
 [font]
-size = 12.0
+size = 24.0
 
 [font.normal]
 family = "JetBrainsMono Nerd Font" # Replace with your preferred system font
